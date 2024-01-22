@@ -22,10 +22,7 @@ public class MyListTest {
 //        System.out.println(myList2.toString());
 //        System.out.println(myList.toString());
 
-
         System.out.println(myList2.indexOf(4));
         System.out.println(myList2.contains(4));
-
-
     }
 }
