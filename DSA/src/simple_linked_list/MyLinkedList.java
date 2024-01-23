@@ -9,6 +9,10 @@ public class MyLinkedList {
         numNodes++;
     }
 
+    public int getNumNodes() {
+        return numNodes;
+    }
+
     public void add(int index, Object data) {
         Node temp = head;
         Node holder;
